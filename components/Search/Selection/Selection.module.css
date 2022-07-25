@@ -1,0 +1,44 @@
+.wrapper {
+    cursor: pointer;
+    width: 152px;
+    height: 64px;
+    background-color: #FBF8EF;
+    border-radius: 10px;
+    margin-left: 8px;
+    position: relative;
+    padding: 11px 16px;
+}
+.openBlock {
+    border-radius: 10px 10px 0 0 ;
+}
+.title {
+    color: #9F9D89;
+    font-size: 10px;
+    margin-bottom: 5px;
+}
+.item {
+    color: #575757;
+    font-size: 15px;
+    font-weight: 700;
+}
+.drop {
+    transform: scaleY(0) translateY(20%);
+    position: absolute;
+    top: 64px;
+    left: 0;
+    width: 152px;
+    background-color: #FBF8EF;
+    transition: .3s;
+    transform-origin: top center;
+}
+.visible {
+    transform: scaleY(1) translateY(0);
+    max-height: 200px;
+    overflow: auto;
+}
+.searchItem {
+    padding: 10px 15px;
+    font-size: 15px;
+    color: #00506F;
+    cursor: pointer;
+}

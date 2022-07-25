@@ -1,0 +1,24 @@
+.registration {
+    color: #00506F;
+    padding: 12px 16px;
+    border-radius: 10px;
+    font-weight: 500;
+    cursor: pointer;
+    margin-right: 8px;
+}
+
+.exit {
+    color: #fff;
+    padding: 12px 16px;
+    border-radius: 10px;
+    border: 1px solid #fff;
+    font-weight: 500;
+    cursor: pointer;
+}
+.btnWrapper {
+    display: flex;
+    max-height: 44px;
+}
+.exit:hover, .registration:hover {
+    transform: scale(1.05);
+}

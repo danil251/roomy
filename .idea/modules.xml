@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../volya/WillReactNative/.idea/WillReactNative.iml" filepath="$PROJECT_DIR$/../volya/WillReactNative/.idea/WillReactNative.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../b2b-digital-platform-frontend/.idea/b2b-digital-platform-frontend.iml" filepath="$PROJECT_DIR$/../b2b-digital-platform-frontend/.idea/b2b-digital-platform-frontend.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/roomy.iml" filepath="$PROJECT_DIR$/.idea/roomy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../roxxon_front/.idea/roxxon_front.iml" filepath="$PROJECT_DIR$/../roxxon_front/.idea/roxxon_front.iml" />
     </modules>
   </component>
 </project>

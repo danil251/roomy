@@ -1,0 +1,97 @@
+.wrapper {
+    border-radius: 10px;
+    display: flex;
+    width: 993px;
+    position: relative;
+}
+.left {
+    display: flex;
+    padding: 16px 26px 16px 16px;
+    border: 1px solid #CCE3EC;
+    border-right: none;
+}
+.padd {
+    margin-left: 15px;
+}
+.smallItemWrapper {
+    padding: 10px 15px;
+    border-radius: 10px;
+    background-color: #EFF7FA;
+    margin-bottom: 8px;
+
+}
+.flex {
+    display: flex;
+    justify-content: space-between;
+}
+.blue {
+    border-radius: 50px;
+    width: 16px;
+    height: 16px;
+    background-color: #00AEEF;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.hotel {
+    font-weight: 400;
+    font-size: 12px;
+    color: #00374b;
+    margin-bottom: 5px;
+}
+.name {
+    font-weight: 800;
+    font-size: 16px;
+    color: #00374b;
+    margin-bottom: 10px;
+}
+.rait {
+    color: #438ca7;
+    font-weight: 700;
+    font-size: 12px;
+    display: flex;
+    align-items: center;
+    margin-bottom: 16px;
+}
+.rewiev {
+    color: #438ca7;
+    font-weight: 400;
+    font-size: 12px;
+    margin-left: 10px;
+}
+.num {
+    margin-bottom: 7px;
+    margin-right: 80px;
+}
+.right {
+    border: 1px solid #CCE3EC;
+    border-radius: 10px;
+    padding: 24px;
+    position: absolute;
+    right: 35px;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+.day {
+    display: flex;
+    font-size: 16px;
+    font-weight: 400;
+}
+.city {
+    font-weight: 700;
+    font-size: 12px;
+    color: #00374b;
+}
+.location {
+    color: #438ca7;
+    font-weight: 400;
+    font-size: 12px;
+}
+.ad {
+    font-weight: 400;
+    font-size: 12px;
+    color: #00374b;
+    margin-bottom: 14px;
+}

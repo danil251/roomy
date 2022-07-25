@@ -1,0 +1,30 @@
+.wrapper {
+    background-image: url('../../public/png/mainBg.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 480px;
+    width: 100%;
+}
+
+.titleWrapper {
+    width: 1312px;
+    margin: 70px auto 0;
+}
+
+.title {
+    text-transform: uppercase;
+    color: #fff;
+    font-size: 32px;
+    font-weight: 800;
+    margin-top: 12px;
+}
+.textWrap {
+    display: flex;
+}
+.text {
+    color: #fff;
+    font-size: 16px;
+    font-weight: 500;
+    margin-top: 12px;
+    margin-right: 22px;
+}

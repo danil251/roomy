@@ -1,0 +1,22 @@
+.wrapper {
+    background-image: url("../../public/png/AdBg.png");
+    background-repeat: no-repeat;
+    width: 100%;
+    padding: 140px 80px;
+}
+.content {
+  max-width: 570px;
+}
+.title {
+    font-weight: 800;
+    font-size: 32px;
+    color: #00506f;
+    margin-bottom: 45px;
+}
+.text {
+    font-weight: 400;
+    font-size: 14px;
+    color: #00374b;
+    margin-bottom: 60px;
+    max-width: 520px;
+}
